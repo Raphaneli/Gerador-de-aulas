@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gerador-aulas-v2';
+const CACHE_NAME = 'gerador-aulas-v3';
 const ARQUIVOS = [
   './',
   './index.html',
